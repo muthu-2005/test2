@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 uhkhljdfd
 kjgkgfhg
+=======
+mk......
+>>>>>>> main1
